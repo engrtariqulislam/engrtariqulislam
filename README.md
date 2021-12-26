@@ -9,9 +9,9 @@ I m Happy To Know That You Just Visited My Github Profile
 
 🤔 I’m looking for help with ... AI Related Works
 
-💬 Ask me about ... Mobile Application Development
+💬 Ask me about ... Web & Mobile Application Development
 
-📫 How to reach me: ... mail:tnawayn10@gmail.com or visit https://engrtariqul.me or https://www.youtube.com/channel/
+📫 How to reach me: ... mail:tnawayn10@gmail.com or visit https://engrtariqul.me or https://www.youtube.com/c/MatjelAcademy
 
-⚡ Fun fact: ... Dont Talk about Crush I only Know About App Crash
+⚡ Fun fact: ... 
       
