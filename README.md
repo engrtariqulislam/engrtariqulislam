@@ -100,6 +100,9 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83&show_icons=true)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 <!-- github stats ends here  -->
@@ -144,14 +147,12 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
 ### 👨🏻‍🎓 &nbsp; Education
 
-1. .
-2. B.Sc. in Computer Science & Engineering  
+1. B.Sc. in Computer Science & Engineering  
    University of the people
-   On going 
+   On going.
+2. Professional Diploma in Power enginerring  
+   Khulna Bangladesh.
    
-   .
-3. Professional Diploma in Power enginerring  
-    Khulna Bangladesh.
 
 <br />
 
