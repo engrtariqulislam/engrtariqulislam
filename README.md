@@ -55,7 +55,6 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 [<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.png" />]
 [<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.png" />]
 [<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.png" />]
-
 <br />
 <br />
 <br />
@@ -70,7 +69,6 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 [<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.png" />]
 [<img align="left" alt="Flutter" title="Flutter playlist" width="45" hspace="5" src="./images/Flutter.png" />]
 [<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.png" />]
-
 <br/>
 <br/>
 <br/>
