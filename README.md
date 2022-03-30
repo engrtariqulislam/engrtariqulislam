@@ -1,7 +1,7 @@
 
 
 <!-- banner image starts here  -->
-<img src="./images/" width="100%">
+<img src="./images/image1.jpg" width="100%">
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm Tariqul Islam </h1>
