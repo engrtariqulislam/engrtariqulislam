@@ -44,17 +44,17 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
 #### Key Skills & Videos on Web development:
 
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.png" />][htmlplaylist]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.png" />][cssplaylist]
-[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.png" />][bootstrapplaylist]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.png" />][javascriptplaylist]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.png" />][jsonplaylist]
-[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.png" />][sassplaylist]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.png" />][jqueryplaylist]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.png" />][reactplaylist]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.png" />][mongodbplaylist]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.png" />][mysqlplaylist]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.png" />][githubplaylist]
+[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.png" />]
+[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.png" />]
+[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.png" />]
+[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.png" />]
+[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.png" />]
+[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.png" />]
+[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.png" />]
+[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.png" />]
+[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.png" />]
+[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.png" />]
+[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.png" />]
 
 <br />
 <br />
@@ -66,10 +66,10 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 #### Other Skills & Videos:
 
 
-[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.png" />][javaplaylist]
-[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.png" />][androidplaylist]
-[<img align="left" alt="Flutter" title="Flutter playlist" width="45" hspace="5" src="./images/Flutter.png" />][Flutterplaylist]
-[<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.png" />][pythonplaylist]
+[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.png" />]
+[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.png" />]
+[<img align="left" alt="Flutter" title="Flutter playlist" width="45" hspace="5" src="./images/Flutter.png" />]
+[<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.png" />]
 
 <br/>
 <br/>
