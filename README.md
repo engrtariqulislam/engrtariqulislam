@@ -52,7 +52,6 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 [<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.png" />][sassplaylist]
 [<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.png" />][jqueryplaylist]
 [<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.png" />][reactplaylist]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.png" />][nodeandexpressplaylist]
 [<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.png" />][mongodbplaylist]
 [<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.png" />][mysqlplaylist]
 [<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.png" />][githubplaylist]
