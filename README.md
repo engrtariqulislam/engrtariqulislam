@@ -11,10 +11,10 @@ A full time content creator on & web developer
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />][website]
+[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" />][youtube]
+[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />][facebook]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />][linkedin]
 <br />
 <br />
 
@@ -44,18 +44,18 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
 #### Key Skills & Videos on Web development:
 
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />][htmlplaylist]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />][cssplaylist]
-[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />][bootstrapplaylist]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />][javascriptplaylist]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
-[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />][sassplaylist]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />][jqueryplaylist]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />][reactplaylist]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />][nodeandexpressplaylist]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />][mongodbplaylist]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />][mysqlplaylist]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
+[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.png" />][htmlplaylist]
+[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.png" />][cssplaylist]
+[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.png" />][bootstrapplaylist]
+[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.png" />][javascriptplaylist]
+[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.png" />][jsonplaylist]
+[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.png" />][sassplaylist]
+[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.png" />][jqueryplaylist]
+[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.png" />][reactplaylist]
+[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.png" />][nodeandexpressplaylist]
+[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.png" />][mongodbplaylist]
+[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.png" />][mysqlplaylist]
+[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.png" />][githubplaylist]
 
 <br />
 <br />
