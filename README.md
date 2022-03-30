@@ -11,7 +11,7 @@ I m Happy To Know That You Just Visited My Github Profile
 
 💬 Ask me about ... Web & Mobile Application Development
 
-📫 How to reach me: ... mail:tnawayn10@gmail.com or visit https://engrtariqul.me or https://www.youtube.com/c/MatjelAcademy
+📫 How to reach me: ... mail:tnawayn10@gmail.com or visit https://engrtariqul.me or
 
 ⚡ Fun fact: ... 
       
@@ -112,11 +112,11 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
 <!-- github stats starts here  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83&show_icons=true)
 
 <br/>
 
@@ -126,19 +126,16 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [React Bangla Tutorial 30 : Project 2 | Country App](https://www.youtube.com/watch?v=7ujsEmu8PkQ)
-- [26/03/2022 - Full-stack &lpar;Bootstrap5&rpar; quiz winner - Weekly Discussion with Anisul Islam](https://www.youtube.com/watch?v=JXuLbYCwlWk)
-- [React Bangla Tutorial 25 : Project 1 | A complete Todo App](https://www.youtube.com/watch?v=qQk4bwj5_ts)
-- [React Bangla Tutorial 10 : mapping data with a unique id](https://www.youtube.com/watch?v=Dj7ynTdhy1Q)
-- [React Bangla Tutorial 32 : life cycle of a class component](https://www.youtube.com/watch?v=Yz5qTOmSt0M)
+- 
+- 
+- 
+- 
+- 
 <!-- YOUTUBE:END -->
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
-alt="Java" width="240" height="180" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fRXL0X2WSK4" target="_blank"><img src="https://img.youtube.com/vi/fRXL0X2WSK4/3.jpg" 
-alt="Java" width="240" height="180" border="10" /></a>
 
-↪️ &nbsp; [search more videos...](https://www.youtube.com/c/anisulislamrubel)
+
+↪️ &nbsp; [search more videos...]( https://www.youtube.com/c/MatjelAcademy)
 
 <br/>
 
@@ -152,12 +149,12 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Courier (Part-time) | Posti Oy                                    | Oct 2019- Running   | Tampere, Finland   |
-| Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
-| Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
-| Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
-| Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
-| Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
+| Courier (Part-time) |                                 | Oct 2019- Running   |    |
+| Research Assistant  |                          | Nov 2020 - Jan 2021 |    |
+| Lecturer of ICT     |              | Jul 2018 – Nov 2018 |  |
+| Guest Lecturer      |                  | Nov 2017 – Apr 2018 |  |
+| Android developer   | | Nov 2016 – Nov 2017 |  |
+
 
 <br />
 <!-- work experience section ends here  -->
@@ -220,8 +217,8 @@ All rights reserved by Tariqul Islam @2022
 <!-- Links section starts here -->
 
 [website]: http://engrtariqul.me/
-[youtube]: https://www.youtube.com/c/anisulislamrubel
-[facebook]: https://www.facebook.com/Matjelacademy/
+[youtube]:  https://www.youtube.com/c/MatjelAcademy
+[facebook]: 
 [linkedin]: https://www.linkedin.com/in/md-tariqul-islambd/
 [github]: https://github.com/tnawayn83
 
