@@ -25,7 +25,7 @@ A full time content creator on & web developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
- am Tariqul Islam Web Designer,Web Developer,Public Speaker,Business analyst,Co-founder and CEO at Matjel ltd.
+I am Tariqul Islam Web Designer,Web Developer,Public Speaker,Business analyst,Co-founder and CEO at Matjel ltd.
 
 I talk about Education, Skills & Happiness!
 
