@@ -94,8 +94,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 <!-- github stats starts here  -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83)](https://github.com/anuraghazra/github-readme-stats)
-
+![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83=compact)
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83&show_icons=true)
