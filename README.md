@@ -90,11 +90,14 @@ Our Vision: To inspire people to become self dependent and self employed by impr
   <!-- other skills and my videos for computer science section ends here  -->
 
   <br/>
+  
+  ![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83&layout=compact)
+  
+  <br/>
 
 <!-- github stats starts here  -->
 
 
-![Programming Language Used in Projects]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83)]
 
 
 
