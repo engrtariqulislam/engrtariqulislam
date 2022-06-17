@@ -69,6 +69,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 <img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.png" />
 <img align="left" alt="Flutter" title="Flutter playlist" width="45" hspace="5" src="./images/Flutter.png" />
 <img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.png" />
+**Cloud Services** | <img align="left" alt="AWS" title="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /> 
 <br/>
 <br/>
 <br/>
@@ -91,7 +92,9 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
   <br/>
   
-  ![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83&layout=compact)
+  ![Programming Language Used in Projects]((https://github-readme-stats.vercel.app/api?username=tnawayn83)
+  
+  
   
   <br/>
 
@@ -220,3 +223,5 @@ All rights reserved by Tariqul Islam @2022
 <!-- cse related playlists ends here  -->
 
 <!-- Links section ends here -->
+
+<details><summary>Email</summary><p>tnawayn10@gmail.com</p></details>
