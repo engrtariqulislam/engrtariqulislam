@@ -88,7 +88,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 <img align="left" alt="Flutter" title="Flutter playlist" width="45" hspace="5" src="./images/Flutter.png" />
 <img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.png" />
 <br/>
-**Cloud Services** | <img align="left" alt="AWS" title="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /> 
+
 <br/>
 <br/>
 <br/>
@@ -211,7 +211,7 @@ All rights reserved by Tariqul Islam @2022
 <!-- my achievement section ends here  -->
 
 <!-- Links section starts here -->
-
+### Connect With Me:
 [website]: http://engrtariqul.me/
 [youtube]:  https://www.youtube.com/c/MatjelAcademy
 [facebook]: https://www.facebook.com/Engrtariqulislambd/
