@@ -102,14 +102,17 @@ Our Vision: To inspire people to become self dependent and self employed by impr
   
   
   <br/>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83&count_private=true)
+  
 
 <!-- github stats starts here  -->
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83&show_icons=true)
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83&show_icons=true)
 
 
 
