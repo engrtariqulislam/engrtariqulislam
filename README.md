@@ -97,20 +97,20 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
   <br/>
   
-  ![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83&layout=compact)
+  ![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83&layout=compact&theme=radical)
   
   
   
   <br/>
+  <!-- github stats starts here  -->
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83&count_private=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83&count_private=true&theme=dark)
   
 
-<!-- github stats starts here  -->
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83&show_icons=true)
+<br/>
+  <!-- Wakatime Week Stats -->
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tnawayn83)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
