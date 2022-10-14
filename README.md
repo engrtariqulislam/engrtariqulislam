@@ -225,12 +225,20 @@ All rights reserved by Tariqul Islam @2022
 <!-- my achievement section ends here  -->
 
 <!-- Links section starts here -->
-### Connect With Me:
+### Connect with me:
+
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]http://engrtariqul.me/
+[<img align="left" alt="| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]https://www.youtube.com/c/MatjelAcademy
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]https://www.linkedin.com/in/md-tariqul-islambd/
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<!-- ### Connect With Me:
 [website]: http://engrtariqul.me/
 [youtube]:  https://www.youtube.com/c/MatjelAcademy
 [facebook]: https://www.facebook.com/Engrtariqulislambd/
 [linkedin]: https://www.linkedin.com/in/md-tariqul-islambd/
-[github]: https://github.com/tnawayn83
+[github]: https://github.com/tnawayn83 -->
 
 <!-- web related playlists starts here  -->
 
