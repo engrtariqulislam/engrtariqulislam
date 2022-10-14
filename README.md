@@ -106,23 +106,20 @@ Our Vision: To inspire people to become self dependent and self employed by impr
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83&count_private=true&theme=dark)
   
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tnawayn83)
 
 <br/>
   <!-- Wakatime Week Stats -->
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tnawayn83)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
 
 ![Profile views](https://gpvc.arturio.dev/tnawayn83)
 
 
-<br/>
-  <!-- Quick Tip (Align The Repo Cards) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnawayn83&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnawayn83&repo=convoychat" />
-</a>
+
 
 
 <br/>
