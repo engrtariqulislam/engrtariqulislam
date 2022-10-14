@@ -111,7 +111,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83&count_private=true&&theme=radical)
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tnawayn83)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tnawayn83&theme=onedark)
 
 <br/>
  
