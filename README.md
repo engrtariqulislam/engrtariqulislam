@@ -97,7 +97,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
   <br/>
   
-  ![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83&layout=compact&theme=radical)
+  ![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83&layout=compact&theme=radical&&hide=html,css)
   
   
   
