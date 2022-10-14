@@ -126,6 +126,8 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
 <!-- github stats ends here  -->
   <!-- latest youtube videos starts here -->
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=tnawayn83)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### 📹 &nbsp; My Latest YouTube Videos
 
