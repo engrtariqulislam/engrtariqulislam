@@ -112,10 +112,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tnawayn83)
 
 <br/>
-  <!-- Wakatime Week Stats -->
-  
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tnawayn83)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
+ ![GitHub metrics](https://metrics.lecoq.io/tnawayn83)
   
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tnawayn83)
 <br/>
