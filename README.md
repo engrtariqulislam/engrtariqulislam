@@ -112,7 +112,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tnawayn83)
 
 <br/>
- ![GitHub metrics](https://metrics.lecoq.io/tnawayn83)
+ 
   
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tnawayn83)
 <br/>
@@ -226,10 +226,10 @@ All rights reserved by Tariqul Islam @2022
 
 <!-- Contact me section starts here  -->
 
-<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />[website]: http://engrtariqul.me/
-<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" />[youtube]:  https://www.youtube.com/c/MatjelAcademy
-<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />[facebook]: https://www.facebook.com/Engrtariqulislambd/
-<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />[linkedin]: https://www.linkedin.com/in/md-tariqul-islambd/
+<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />(http://engrtariqul.me/)
+<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" /> (https://www.youtube.com/c/MatjelAcademy)
+<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />(https://www.facebook.com/Engrtariqulislambd/)
+<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />(https://www.linkedin.com/in/md-tariqul-islambd/)
 <br />
 
 <!-- ### Connect With Me:
