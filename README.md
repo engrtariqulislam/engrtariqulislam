@@ -41,6 +41,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 <!-- web related skills section starts here  -->
 
 ### 👨🏽‍💻 &nbsp; My Skills & Videos:
+##### Skills: PHP / JavaScript / Java / C++ / C / HTML / CSS / Bootstrap
 
 #### Key Skills & Videos on Web development:
 
