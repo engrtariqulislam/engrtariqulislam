@@ -11,10 +11,10 @@ A full time content creator on & web developer
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" />]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />]
+<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />
+<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" />
+<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />
+<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />
 <br />
 <br />
 
@@ -229,10 +229,10 @@ All rights reserved by Tariqul Islam @2022
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" />]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />]
+<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />
+<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" />
+<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />
+<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />
 <br />
 
 <!-- ### Connect With Me:
