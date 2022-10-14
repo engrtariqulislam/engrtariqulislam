@@ -115,10 +115,10 @@ Our Vision: To inspire people to become self dependent and self employed by impr
   <!-- Wakatime Week Stats -->
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tnawayn83)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
   
-  
-  
-
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tnawayn83)
+<br/>
 ![Profile views](https://gpvc.arturio.dev/tnawayn83)
 
 
@@ -229,10 +229,10 @@ All rights reserved by Tariqul Islam @2022
 
 <!-- Contact me section starts here  -->
 
-<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />
-<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" />
-<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />
-<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />
+<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />[website]: http://engrtariqul.me/
+<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" />[youtube]:  https://www.youtube.com/c/MatjelAcademy
+<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />[facebook]: https://www.facebook.com/Engrtariqulislambd/
+<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />[linkedin]: https://www.linkedin.com/in/md-tariqul-islambd/
 <br />
 
 <!-- ### Connect With Me:
