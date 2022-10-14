@@ -11,10 +11,10 @@ A full time content creator on & web developer
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />][website]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" />][youtube]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />][linkedin]
+[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />]
+[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" />]
+[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />]
 <br />
 <br />
 
@@ -227,11 +227,13 @@ All rights reserved by Tariqul Islam @2022
 <!-- Links section starts here -->
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]http://engrtariqul.me/
-[<img align="left" alt="| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]https://www.youtube.com/c/MatjelAcademy
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]https://www.linkedin.com/in/md-tariqul-islambd/
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- Contact me section starts here  -->
+
+[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />]
+[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" />]
+[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />]
+<br />
 
 <!-- ### Connect With Me:
 [website]: http://engrtariqul.me/
