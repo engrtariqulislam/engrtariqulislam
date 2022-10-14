@@ -112,6 +112,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tnawayn83)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile views](https://gpvc.arturio.dev/tnawayn83)
 
 
 <br/>
