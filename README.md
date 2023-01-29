@@ -252,12 +252,15 @@ All rights reserved by Tariqul Islam @2022
 <img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />https://www.linkedin.com/in/md-tariqul-islambd/
 <br />
 
-<!-- ### Connect With Me:
-[website]: http://engrtariqul.me/
-[youtube]:  https://www.youtube.com/c/MatjelAcademy
-[facebook]: https://www.facebook.com/Engrtariqulislambd/
-[linkedin]: https://www.linkedin.com/in/md-tariqul-islambd/
-[github]: https://github.com/tnawayn83 -->
+
+<p><a href="https://tariqul.me/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
+  <a href="https://twitter.com/engrtariqulislm" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>
+  <a href="https://www.linkedin.com/in/md-tariqul-islambd/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+  <a href="https://www.instagram.com/engrtariqulislambd/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+</p>
+
+
+
 
 <!-- web related playlists starts here  -->
 
