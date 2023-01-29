@@ -29,8 +29,6 @@ I am Tariqul Islam Web Designer,Web Developer,Public Speaker,Business analyst,Co
 
 I talk about Education, Skills & Happiness!
   
-🙋‍ All about me is at **[My Website](https://tariqul.me/)**
-🔭 I’m currently working on `Something Intresting`.
   
 I provide Business Idea, Business plan,Business Startup Help,Business Motivation, I love to create documentary video, Business Finance & How to Grow your Business with Low investment,Business tips & help for starting and growing your business.
 
@@ -39,6 +37,10 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 </p>
 
 <br />
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+🙋‍ All about me is at **[My Website](https://tariqul.me/)**
+🔭 I’m currently working on `Something Intresting`.
 
 🌱 I’m currently learning `MERN Stack`
 
@@ -72,7 +74,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
 <!-- web related skills section ends here  -->
 
-## 📖🛠 Language And Tools I use:
+## 🛠️ Technologies and Tools I use:
 
 **For** | **I Use**
 --- | ---
