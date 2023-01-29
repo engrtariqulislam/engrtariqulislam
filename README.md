@@ -80,6 +80,11 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
 <!-- other skills and my videos for computer science section starts here  -->
 
+## 🤝 Support Me:
+
+<a href="https://www.buymeacoffee.com/tariqul.me" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+
+
 #### Other Skills & Videos:
 
 
