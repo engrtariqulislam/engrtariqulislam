@@ -40,6 +40,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 -🙋‍ All about me is at **[My Website](https://tariqul.me/)**
+
 -🔭 I’m currently working on `Something Intresting`.
 
 -🌱 I’m currently learning `MERN Stack`
