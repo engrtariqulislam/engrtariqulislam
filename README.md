@@ -39,10 +39,10 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 <br />
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-🙋‍ All about me is at **[My Website](https://tariqul.me/)**
-🔭 I’m currently working on `Something Intresting`.
+-🙋‍ All about me is at **[My Website](https://tariqul.me/)**
+-🔭 I’m currently working on `Something Intresting`.
 
-🌱 I’m currently learning `MERN Stack`
+-🌱 I’m currently learning `MERN Stack`
 
 -👯 I’m looking to collaborate for `Dev Projects`
 
@@ -242,7 +242,7 @@ All rights reserved by Tariqul Islam @2022
 <!-- my achievement section ends here  -->
 
 <!-- Links section starts here -->
-### Connect with me:
+## ❤️ Let's get connected:
 
 <!-- Contact me section starts here  -->
 
