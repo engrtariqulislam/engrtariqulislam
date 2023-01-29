@@ -246,19 +246,14 @@ All rights reserved by Tariqul Islam @2022
 
 <!-- Contact me section starts here  -->
 
-<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />http://engrtariqul.me/
-<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.png" />https://www.youtube.com/c/MatjelAcademy
-<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.png" />https://www.facebook.com/Engrtariqulislambd/
-<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.png" />https://www.linkedin.com/in/md-tariqul-islambd/
-<br />
 
 
 <p><a href="https://tariqul.me/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/tariqul.me-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
   <a href="https://twitter.com/engrtariqulislm" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>
   <a href="https://www.linkedin.com/in/md-tariqul-islambd/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
   <a href="https://www.instagram.com/engrtariqulislambd/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-  <a href="https://www.facebook.com/Engrtariqulislambd/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-  <a href="https://www.youtube.com/c/MatjelAcademy/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/youtube-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+  <a href="https://www.facebook.com/Engrtariqulislambd/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-#3b5998?style=for-the-badge&logo=facebook&logoColor=white"  height="30px"/></a>
+  <a href="https://www.youtube.com/c/MatjelAcademy/" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/youtube-#c4302b?style=for-the-badge&logo=youtube&logoColor=white"  height="30px"/></a>
 </p>
 
 
