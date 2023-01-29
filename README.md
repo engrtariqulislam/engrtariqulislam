@@ -54,6 +54,8 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
 <!-- web related skills section starts here  -->
 
+<br />
+<br />
 
 
 #### Key Skills & Videos on Web development:
