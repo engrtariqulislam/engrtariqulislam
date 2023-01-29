@@ -112,7 +112,9 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 <br/>
 
   <!-- other skills and my videos for computer science section ends here  -->
-
+  
+  
+## 📊 My GitHub Data:
   <br/>
   
   ![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83&layout=compact&theme=radical&&hide=html,css)
@@ -235,7 +237,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 
 
 Thanks for going through my Portfolio.
-All rights reserved by Tariqul Islam @2022
+All rights reserved by Tariqul Islam @2023
 
 ---
 
@@ -252,8 +254,7 @@ All rights reserved by Tariqul Islam @2022
   <a href="https://twitter.com/engrtariqulislm" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>
   <a href="https://www.linkedin.com/in/md-tariqul-islambd/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
   <a href="https://www.instagram.com/engrtariqulislambd/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-  <a href="https://www.facebook.com/Engrtariqulislambd/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-#3b5998?style=for-the-badge&logo=facebook&logoColor=white"  height="30px"/></a>
-  <a href="https://www.youtube.com/c/MatjelAcademy/" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/youtube-#c4302b?style=for-the-badge&logo=youtube&logoColor=white"  height="30px"/></a>
+  
 </p>
 
 
