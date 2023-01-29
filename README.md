@@ -28,7 +28,10 @@ A full time content creator on & web developer
 I am Tariqul Islam Web Designer,Web Developer,Public Speaker,Business analyst,Co-founder and CEO at Matjel ltd.
 
 I talk about Education, Skills & Happiness!
-
+  
+🙋‍ All about me is at **[My Website](https://tariqul.me/)**
+🔭 I’m currently working on `Something Intresting`.
+  
 I provide Business Idea, Business plan,Business Startup Help,Business Motivation, I love to create documentary video, Business Finance & How to Grow your Business with Low investment,Business tips & help for starting and growing your business.
 
 Our Mission: To help people learning business education and technology .
@@ -36,6 +39,14 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 </p>
 
 <br />
+
+🌱 I’m currently learning `MERN Stack`
+
+-👯 I’m looking to collaborate for `Dev Projects`
+
+-🤔 I’m looking for help with `Competitive Programming`
+
+💬 Ask me about anything, Except Maths :sweat_smile:
 <!-- about-me section ends here  -->
 
 <!-- web related skills section starts here  -->
