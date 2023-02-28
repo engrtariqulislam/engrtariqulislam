@@ -146,28 +146,28 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 ## 📊 My GitHub Data:
   <br/>
   
-  ![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83&layout=compact&theme=radical&&hide=html,css)
+  ![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=engrtariqulislam&layout=compact&theme=radical&&hide=html,css)
   
   
   
   <br/>
   <!-- github Top Langs here  -->
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnawayn83)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrtariqulislam)](https://github.com/anuraghazra/github-readme-stats)
   
    <br/>
   <!-- github stats starts here  -->
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnawayn83&count_private=true&&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engrtariqulislam&count_private=true&&theme=radical)
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tnawayn83&theme=onedark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=engrtariqulislam&theme=onedark)
 
 <br/>
  
   
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tnawayn83)
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=engrtariqulislam)
 <br/>
-![Profile views](https://gpvc.arturio.dev/tnawayn83)
+![Profile views](https://gpvc.arturio.dev/engrtariqulislam)
 
 
 
@@ -178,7 +178,7 @@ Our Vision: To inspire people to become self dependent and self employed by impr
 <!-- github stats ends here  -->
   <!-- latest youtube videos starts here -->
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=tnawayn83)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=engrtariqulislam)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### 📹 &nbsp; My Latest YouTube Videos
 
